@@ -1,0 +1,90 @@
+/* #ff014f main color */
+/* #212428 secondery color */
+
+body{
+    background-color: #212428;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* common css */
+
+.threeD-btn{
+    background-color: #212428;
+    color: #ff014f;
+    border: none;
+    padding: 15px 30px;
+    box-shadow: 1px 2px 2px rgb(255, 255, 255, 0.5);
+}
+
+.navbar-brand img{
+    border-radius: 50%;
+    margin-top: 5px;
+    border-color: #fff;
+}
+
+.threeD-btn:hover{
+    background-color: black;
+}
+
+/* hero section css */
+.hero-section{
+    padding: 100px 0px;
+}
+.hero-subtitle{
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ffffffbc;
+    margin-bottom: 20px;
+}
+
+.hero-red-text{
+    color: #ff014f;
+    
+}
+
+.hero-title{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.animated-text{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.hero-info{
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #ffffffbc;
+    line-height: 27px;
+    font-weight: 500;
+}
+
+.hero-icon-section{
+    margin-top: 120px;
+}
+
+.hero-icon-section p{
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: #ffffffbc;
+    margin-bottom: 20px;
+}
+
+.hero-icon-section a{
+    color: #ffffff;
+    padding: 15px 20px;
+    font-size: 20px;
+    background-color: #282c30;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.banner-section img{
+    height: 550px;
+    margin-left: 65px;
+    padding: 30px 0px;
+    margin-top: -78px;
+}
